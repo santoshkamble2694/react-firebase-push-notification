@@ -8,7 +8,7 @@ React Firebase push notification demo with react-bootstrap
 ## Getting Started
 Steps:
 ```bash
-git clone https://github.com/santoshkamble8168/react-firebase-push-notification.git
+git clone https://github.com/santoshkamble2694/react-firebase-push-notification.git
 ```
 
 ```bash
